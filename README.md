@@ -1,4 +1,4 @@
-# uuid ![build status](https://travis-ci.org/google/uuid.svg?branch=master)
+# uuid ![build status](https://travis-ci.org/AbhisheKundalia/uuid.svg?branch=master)
 The uuid package generates and inspects UUIDs based on
 [RFC 4122](http://tools.ietf.org/html/rfc4122)
 and DCE 1.1: Authentication and Security Services. 
